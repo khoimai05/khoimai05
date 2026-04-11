@@ -59,7 +59,7 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 
 </div>
 
-<br/>
+<!-- <br/>
 
 ## Featured projects
 
@@ -68,9 +68,9 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 | [**College-Basketball-Analysis-And-Predictor**](https://github.com/khoimai05/College-Basketball-Analysis-And-Predictor) | EDA, features, and predictive models on college basketball data |
 | [**local_elt_pipeline**](https://github.com/khoimai05/local_elt_pipeline) | Local-first extract–load–transform for analytics without the cloud tax |
 
-<sub>Pin these repos on your profile so they show above the fold — <strong>Customize your pins</strong> on GitHub.</sub>
+<!-- <sub>Pin these repos on your profile so they show above the fold — <strong>Customize your pins</strong> on GitHub.</sub> -->
 
-<br/>
+<br/> -->
 
 ---
 
