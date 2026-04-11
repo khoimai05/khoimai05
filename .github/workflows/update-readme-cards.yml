@@ -1,0 +1,46 @@
+# Generates GitHub Readme Stats SVGs in-repo (avoids the paused public Vercel instance).
+# After pushing, run once: Actions → "Update README cards" → Run workflow.
+name: Update README cards
+
+on:
+  push:
+    branches: [main, master]
+    paths-ignore:
+      - "profile/**"
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&title_color=667eea&icon_color=79dafa
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=667eea
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update README stat cards"
+          git push
