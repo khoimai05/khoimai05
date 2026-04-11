@@ -47,19 +47,19 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 <table>
 <tr>
 <td align="center" valign="top">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khoimai05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&title_color=667eea&icon_color=79dafa" alt="GitHub stats for khoimai05" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khoimai05&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;title_color=667eea&amp;icon_color=79dafa" alt="GitHub stats for khoimai05" />
 </td>
 <td align="center" valign="top">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoimai05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&title_color=667eea" alt="Top languages for khoimai05" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoimai05&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;langs_count=8&amp;title_color=667eea" alt="Top languages for khoimai05" />
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=khoimai05&theme=tokyonight&hide_border=true&border_radius=12&ring=667eea&fire=764ba2" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=khoimai05&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=12&amp;ring=667eea&amp;fire=764ba2" alt="GitHub contribution streak" />
 
 </div>
 
-<!-- <br/>
+<br/>
 
 ## Featured projects
 
@@ -68,9 +68,9 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 | [**College-Basketball-Analysis-And-Predictor**](https://github.com/khoimai05/College-Basketball-Analysis-And-Predictor) | EDA, features, and predictive models on college basketball data |
 | [**local_elt_pipeline**](https://github.com/khoimai05/local_elt_pipeline) | Local-first extract–load–transform for analytics without the cloud tax |
 
-<!-- <sub>Pin these repos on your profile so they show above the fold — <strong>Customize your pins</strong> on GitHub.</sub> -->
+<sub>Pin these repos on your profile so they show above the fold — <strong>Customize your pins</strong> on GitHub.</sub>
 
-<br/> -->
+<br/>
 
 ---
 
@@ -78,6 +78,6 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 
 **Thanks for stopping by** — issues and collaboration welcome.
 
-<img src="https://komarev.com/ghpvc/?username=khoimai05&color=667eea&style=flat&label=Profile+views" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=khoimai05&amp;color=667eea&amp;style=flat&amp;label=Profile+views" alt="Profile views" />
 
 </div>
