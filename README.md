@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Khoi%20Mai&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Purdue%20CS%20%2B%20DS&descAlignY=54&descAlign=62&descSize=16" alt="Khoi Mai" width="100%" />
+<img src="./header.svg" alt="Khoi Mai — Purdue CS + DS" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=55&lines=cleaning+data%2C+sweep+sweep+%F0%9F%8D%83%F0%9F%92%A8%F0%9F%A7%B9" alt="Typing SVG" /></a>
 
@@ -81,7 +81,8 @@
 ## 🔭 &nbsp;Currently
 
 - 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at Purdue Discovery Park
-- 🤖 &nbsp; Incoming Data Scientist Intern **@Zotec**
+- 🤖 &nbsp;Incoming Data Scientist Intern **@Zotec**
+
 ---
 
 <div align="center">
@@ -91,9 +92,5 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=khoimai05&color=667eea&style=flat&label=Profile+views" alt="Profile views" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%" />
 
 </div>
