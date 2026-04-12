@@ -81,7 +81,7 @@
 ## 🔭 &nbsp;Currently
 
 - 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at Purdue Discovery Park
-- 🤖 &nbsp;Building ML models **@Zotec**
+- 🤖 &nbsp; Incoming Data Scientist Intern **@Zotec**
 ---
 
 <div align="center">
