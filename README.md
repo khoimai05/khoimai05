@@ -80,8 +80,10 @@
 
 ## 🔭 &nbsp;Currently
 
-- 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at Purdue Discovery Park
+- 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at **$\textcolor{#CFB991}{\textsf{Purdue Discovery Park}}$**
 - 🤖 &nbsp;Incoming Data Scientist Intern **$\textcolor{#4CAF50}{\textsf{@Zotec}}$**
+- 📊 &nbsp;Past Data Scientist Intern **$\textcolor{#2196F3}{\textsf{@Antsomi}}$**
+- 🏦 &nbsp;Past Analytics Engineer Intern **$\textcolor{#2E7D32}{\textsf{@OCB}}$**
 
 ---
 
