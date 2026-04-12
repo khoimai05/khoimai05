@@ -9,7 +9,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Khoi%20Mai&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20%C2%B7%20ML%20%C2%B7%20Analytics&descAlignY=54&descAlign=62&descSize=17" alt="Khoi Mai — Data · ML · Analytics" width="100%" />
 
-<sub><em>Turning noisy data into clear decisions</em></sub>
+<sub><em>Hi!</em></sub>
 
 <br/><br/>
 
@@ -59,13 +59,12 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 
 <!-- <sub>Pin these repos on your profile so they show above the fold — <strong>Customize your pins</strong> on GitHub.</sub> -->
 
-<br/> -->
-
+<br/> 
 ---
 
 <div align="center">
 
-**Thanks for stopping by** — issues and collaboration welcome.
+**Thanks for stopping by** 
 
 <img src="https://komarev.com/ghpvc/?username=khoimai05&amp;color=667eea&amp;style=flat&amp;label=Profile+views" alt="Profile views" />
 
