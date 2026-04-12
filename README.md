@@ -38,11 +38,6 @@ Most interested in **analytics**, **ML**, and the whole path from raw tables to 
 
 <img src="https://streak-stats.demolab.com?user=khoimai05&theme=tokyonight&hide_border=true&border_radius=12&ring=667eea&fire=764ba2" alt="GitHub contribution streak" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=khoimai05&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&icon_color=667eea&title_color=764ba2" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoimai05&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&title_color=764ba2" alt="Top languages" height="170" />
-
 </div>
 
 ---
