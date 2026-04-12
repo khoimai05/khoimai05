@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Khoi%20Mai&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Purdue%20CS%20%2B%20DS&descAlignY=54&descAlign=62&descSize=16" alt="Khoi Mai" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=55&lines=cleaning+data%2C+sweep+sweep+%F0%9F%A7%B9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=55&lines=cleaning+data%2C+sweep+sweep+%F0%9F%8D%83%F0%9F%92%A8%F0%9F%A7%B9" alt="Typing SVG" /></a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoi-maix)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mai101@purdue.edu)
 [![GitHub followers](https://img.shields.io/github/followers/khoimai05?label=Followers&style=for-the-badge&logo=github&color=24292f&logoColor=white)](https://github.com/khoimai05?tab=followers)
 
 </div>
@@ -16,10 +17,8 @@
 ## 🧠 &nbsp;About
 
 ```text
-🎓  Junior @ Purdue University — Computer Science & Data Science
-🔬  Research — EV charging behavior, NLP, geospatial analysis
-📊  Focus — analytics, ML, and building things that explain data clearly
-🌏  From Vietnam → Indiana
+🎓  @ Purdue University - Computer Science & Data Science
+📊  Passionate about Analytics, ML, and building things that explain data clearly
 ```
 
 <br/>
@@ -82,9 +81,7 @@
 ## 🔭 &nbsp;Currently
 
 - 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at Purdue Discovery Park
-- 🤖 &nbsp;Building ML models and working through **algorithms** coursework
-- 🔍 &nbsp;Seeking **Summer 2026 internships** in data science & analytics
-
+- 🤖 &nbsp;Building ML models **@Zotec**
 ---
 
 <div align="center">
