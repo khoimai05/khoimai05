@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="line-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#667eea" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#667eea"/>
+      <stop offset="85%" stop-color="#764ba2"/>
+      <stop offset="100%" stop-color="#764ba2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#667eea"/>
+      <stop offset="100%" stop-color="#764ba2"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft-glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.06" stroke="#667eea">
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="200" y1="0" x2="200" y2="200"/>
+    <line x1="300" y1="0" x2="300" y2="200"/>
+    <line x1="400" y1="0" x2="400" y2="200"/>
+    <line x1="500" y1="0" x2="500" y2="200"/>
+    <line x1="600" y1="0" x2="600" y2="200"/>
+    <line x1="700" y1="0" x2="700" y2="200"/>
+    <line x1="800" y1="0" x2="800" y2="200"/>
+    <line x1="0" y1="40" x2="900" y2="40"/>
+    <line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/>
+    <line x1="0" y1="160" x2="900" y2="160"/>
+  </g>
+
+  <!-- Axis lines (bottom-left, subtle) -->
+  <line x1="60" y1="30" x2="60" y2="175" stroke="#667eea" stroke-opacity="0.15" stroke-width="1"/>
+  <line x1="60" y1="175" x2="860" y2="175" stroke="#667eea" stroke-opacity="0.15" stroke-width="1"/>
+
+  <!-- Axis tick marks -->
+  <g stroke="#667eea" stroke-opacity="0.12" stroke-width="1">
+    <line x1="55" y1="55" x2="60" y2="55"/>
+    <line x1="55" y1="85" x2="60" y2="85"/>
+    <line x1="55" y1="115" x2="60" y2="115"/>
+    <line x1="55" y1="145" x2="60" y2="145"/>
+    <line x1="160" y1="175" x2="160" y2="180"/>
+    <line x1="300" y1="175" x2="300" y2="180"/>
+    <line x1="440" y1="175" x2="440" y2="180"/>
+    <line x1="580" y1="175" x2="580" y2="180"/>
+    <line x1="720" y1="175" x2="720" y2="180"/>
+    <line x1="840" y1="175" x2="840" y2="180"/>
+  </g>
+
+  <!-- Scatter plot dots (background data points) -->
+  <g filter="url(#glow)">
+    <!-- Cluster 1 - left -->
+    <circle cx="95" cy="148" r="2.5" fill="#667eea" opacity="0.35"/>
+    <circle cx="115" cy="138" r="2" fill="#667eea" opacity="0.25"/>
+    <circle cx="130" cy="155" r="1.8" fill="#667eea" opacity="0.3"/>
+    <circle cx="108" cy="160" r="2.2" fill="#667eea" opacity="0.2"/>
+    <circle cx="145" cy="142" r="1.5" fill="#667eea" opacity="0.35"/>
+    <circle cx="88" cy="158" r="1.8" fill="#667eea" opacity="0.2"/>
+    <circle cx="155" cy="135" r="2" fill="#667eea" opacity="0.25"/>
+
+    <!-- Cluster 2 - mid-left -->
+    <circle cx="195" cy="128" r="2" fill="#667eea" opacity="0.3"/>
+    <circle cx="220" cy="118" r="2.5" fill="#6e6ee8" opacity="0.3"/>
+    <circle cx="240" cy="125" r="1.8" fill="#6e6ee8" opacity="0.25"/>
+    <circle cx="210" cy="135" r="2.2" fill="#667eea" opacity="0.2"/>
+    <circle cx="260" cy="112" r="2" fill="#6e6ee8" opacity="0.35"/>
+    <circle cx="250" cy="130" r="1.5" fill="#667eea" opacity="0.2"/>
+
+    <!-- Cluster 3 - center -->
+    <circle cx="330" cy="105" r="2.2" fill="#7158d1" opacity="0.3"/>
+    <circle cx="355" cy="95" r="2" fill="#7158d1" opacity="0.25"/>
+    <circle cx="370" cy="108" r="2.5" fill="#7158d1" opacity="0.3"/>
+    <circle cx="345" cy="115" r="1.8" fill="#7158d1" opacity="0.2"/>
+    <circle cx="390" cy="90" r="2" fill="#764ba2" opacity="0.35"/>
+    <circle cx="310" cy="112" r="1.5" fill="#7158d1" opacity="0.25"/>
+
+    <!-- Cluster 4 - right -->
+    <circle cx="680" cy="65" r="2.2" fill="#764ba2" opacity="0.3"/>
+    <circle cx="710" cy="55" r="2" fill="#764ba2" opacity="0.25"/>
+    <circle cx="695" cy="72" r="2.5" fill="#764ba2" opacity="0.2"/>
+    <circle cx="730" cy="48" r="1.8" fill="#764ba2" opacity="0.35"/>
+    <circle cx="665" cy="58" r="2" fill="#764ba2" opacity="0.3"/>
+    <circle cx="745" cy="60" r="1.5" fill="#764ba2" opacity="0.2"/>
+
+    <!-- Cluster 5 - far right -->
+    <circle cx="790" cy="42" r="2" fill="#764ba2" opacity="0.25"/>
+    <circle cx="815" cy="35" r="2.5" fill="#764ba2" opacity="0.3"/>
+    <circle cx="835" cy="45" r="1.8" fill="#764ba2" opacity="0.2"/>
+    <circle cx="805" cy="50" r="2.2" fill="#764ba2" opacity="0.15"/>
+    <circle cx="850" cy="38" r="2" fill="#764ba2" opacity="0.25"/>
+
+    <!-- Scattered outliers -->
+    <circle cx="170" cy="108" r="1.5" fill="#667eea" opacity="0.15"/>
+    <circle cx="480" cy="82" r="1.8" fill="#7158d1" opacity="0.2"/>
+    <circle cx="540" cy="72" r="2" fill="#764ba2" opacity="0.15"/>
+    <circle cx="600" cy="78" r="1.5" fill="#764ba2" opacity="0.2"/>
+    <circle cx="430" cy="98" r="1.8" fill="#7158d1" opacity="0.15"/>
+    <circle cx="560" cy="88" r="1.5" fill="#764ba2" opacity="0.12"/>
+  </g>
+
+  <!-- Trend line (regression line through the scatter) -->
+  <line x1="80" y1="158" x2="860" y2="32" stroke="url(#line-grad)" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.4"/>
+
+  <!-- Confidence band (very subtle) -->
+  <path d="M80,148 Q300,90 450,78 Q600,60 860,22 L860,42 Q600,76 450,92 Q300,108 80,168 Z" fill="url(#accent)" opacity="0.03"/>
+
+  <!-- Main text -->
+  <text x="450" y="88" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="42" font-weight="700" fill="white" letter-spacing="2" filter="url(#soft-glow)">Khoi Mai</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="118" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace" font-size="14" fill="url(#accent)" letter-spacing="4" opacity="0.85">PURDUE CS + DS</text>
+
+  <!-- Decorative bracket accents around subtitle -->
+  <text x="338" y="119" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="14" fill="#667eea" opacity="0.4">&#123;</text>
+  <text x="562" y="119" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="14" fill="#764ba2" opacity="0.4">&#125;</text>
+
+  <!-- Small decorative labels like axis annotations -->
+  <text x="45" y="178" text-anchor="end" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#667eea" opacity="0.2">0</text>
+  <text x="45" y="55" text-anchor="end" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#667eea" opacity="0.2">n</text>
+  <text x="840" y="193" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#667eea" opacity="0.2">features</text>
+  <text x="30" y="115" text-anchor="middle" font-family="'SF Mono', 'Fira Code', monospace" font-size="8" fill="#667eea" opacity="0.2" transform="rotate(-90, 30, 115)">accuracy</text>
+</svg>
