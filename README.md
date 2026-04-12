@@ -81,7 +81,7 @@
 ## 🔭 &nbsp;Currently
 
 - 🧪 &nbsp;Researching **EV charger adoption & travel behavior** at Purdue Discovery Park
-- 🤖 &nbsp;Incoming Data Scientist Intern **@Zotec**
+- 🤖 &nbsp;Incoming Data Scientist Intern **$\textcolor{#4CAF50}{\textsf{@Zotec}}$**
 
 ---
 
