@@ -89,7 +89,7 @@
 
 <div align="center">
 
-**Thanks for stopping by** &nbsp;👋
+**Thanks for stopping by!** &nbsp;👋
 
 <br/>
 
