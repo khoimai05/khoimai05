@@ -14,7 +14,7 @@
 
 <br/>
 
-## 🧠 &nbsp;About
+## &nbsp;About
 
 ```text
 🎓  @ Purdue University - Computer Science & Data Science
@@ -95,13 +95,13 @@
 
 ## 🔭 &nbsp;Currently
 
-Incoming Data Scientist Intern ![](https://img.shields.io/badge/@Zotec-4CAF50?style=flat-square)
+Incoming Data Scientist Intern at ![](https://img.shields.io/badge/Zotec_Financial-4CAF50?style=flat-square)
 
 Researching EV charger adoption & travel behavior at ![](https://img.shields.io/badge/Purdue_Discovery_Park-CFB991?style=flat-square&logoColor=000)
 
-Past Data Scientist Intern ![](https://img.shields.io/badge/@Antsomi-2196F3?style=flat-square)
+Past Data Scientist Intern at ![](https://img.shields.io/badge/Antsomi-2196F3?style=flat-square)
 
-Past Analytics Engineer Intern ![](https://img.shields.io/badge/@OCB-2E7D32?style=flat-square)
+Past Analytics Engineer Intern at ![](https://img.shields.io/badge/OCB-2E7D32?style=flat-square)
 
 ---
 
