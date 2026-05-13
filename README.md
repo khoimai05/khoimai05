@@ -70,22 +70,6 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top">
-<img height="170" src="profile/stats.svg" alt="GitHub stats for khoimai05" />
-</td>
-<td align="center" valign="top">
-<img height="170" src="profile/top-langs.svg" alt="Top languages for khoimai05" />
-</td>
-</tr>
-</table>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=khoimai05&theme=tokyonight&hide_border=true&border_radius=12&ring=667eea&fire=764ba2" alt="GitHub contribution streak" />
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=khoimai05&theme=tokyo-night&hide_border=true&radius=12&area=true&area_color=667eea&line=764ba2&point=ffffff&color=a9b1d6" alt="Contribution graph" width="95%" />
 
@@ -107,7 +91,7 @@ Past Analytics Engineer Intern at ![](https://img.shields.io/badge/OCB-2E7D32?st
 
 <div align="center">
 
-**Thanks for stopping by!** &nbsp;👋
+**Thanks for stopping by!** 
 
 <br/>
 
