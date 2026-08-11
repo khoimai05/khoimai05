@@ -79,7 +79,7 @@
 
 ## 🔭 &nbsp;Currently
 
-Incoming Data Scientist Intern at ![](https://img.shields.io/badge/Zotec_Financial-4CAF50?style=flat-square)
+Incoming Data Scientist Intern at ![](https://img.shields.io/badge/Zotec-4CAF50?style=flat-square)
 
 Researching EV charger adoption & travel behavior at ![](https://img.shields.io/badge/Purdue_Discovery_Park-CFB991?style=flat-square&logoColor=000)
 
