@@ -2,7 +2,7 @@
 
 <img src="./header.svg" alt="Khoi Mai — Purdue CS + DS" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=667EEA&center=true&vCenter=true&repeat=true&width=600&height=55&lines=cleaning+data%2C+sweep+sweep+%F0%9F%8D%83%F0%9F%92%A8%F0%9F%A7%B9" alt="Typing SVG" /></a>
+<a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CFB991&center=true&vCenter=true&repeat=true&width=600&height=55&lines=cleaning+data%2C+sweep+sweep+%F0%9F%A7%B9" alt="Typing SVG" /></a>
 
 <br/>
 
