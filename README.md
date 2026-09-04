@@ -79,9 +79,8 @@
 
 ## 🔭 &nbsp;Currently
 
-Incoming 
 
-Prev Data Scientist Intern at ![](https://img.shields.io/badge/Uber_Freight-000000?style=flat-square&logo=uber&logoColor=white)
+Incoming Data Scientist Intern at ![](https://img.shields.io/badge/Uber_Freight-000000?style=flat-square&logo=uber&logoColor=white)
 
 Researching EV charger adoption & travel behavior at ![](https://img.shields.io/badge/Purdue_Discovery_Park-CFB991?style=flat-square&logoColor=000)
 
